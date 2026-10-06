@@ -1,8 +1,8 @@
 class Simlane < Formula
   desc "One iOS simulator + Metro lane per git worktree for parallel React Native work"
   homepage "https://github.com/ChoiHyeongu/simlane"
-  url "https://github.com/ChoiHyeongu/simlane/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "20abfe1b1a789b275222b5f34e4f9c49f49435a058772e5a0e6016f36df4c81e"
+  url "https://github.com/ChoiHyeongu/simlane/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "7ee811441c3dd65056667455d3c236283a542c86dfb3204d6c16b589ce48b62e"
   license "MIT"
 
   depends_on "jq"
